@@ -1,0 +1,14 @@
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.exe
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.deps.json
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.json
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.dev.json
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfo.cs
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\30698\source\repos\Object Oriented Programming\Object Oriented Programming\bin\Debug\netcoreapp3.1\Object Oriented Programming.exe
+C:\Users\30698\source\repos\Object Oriented Programming\Object Oriented Programming\bin\Debug\netcoreapp3.1\Object Oriented Programming.deps.json
+C:\Users\30698\source\repos\Object Oriented Programming\Object Oriented Programming\bin\Debug\netcoreapp3.1\Object Oriented Programming.runtimeconfig.json
+C:\Users\30698\source\repos\Object Oriented Programming\Object Oriented Programming\bin\Debug\netcoreapp3.1\Object Oriented Programming.runtimeconfig.dev.json
+C:\Users\30698\source\repos\Object Oriented Programming\Object Oriented Programming\bin\Debug\netcoreapp3.1\Object Oriented Programming.dll
+C:\Users\30698\source\repos\Object Oriented Programming\Object Oriented Programming\bin\Debug\netcoreapp3.1\Object Oriented Programming.pdb
+C:\Users\30698\source\repos\Object Oriented Programming\Object Oriented Programming\obj\Debug\netcoreapp3.1\Object Oriented Programming.csproj.AssemblyReference.cache
+C:\Users\30698\source\repos\Object Oriented Programming\Object Oriented Programming\obj\Debug\netcoreapp3.1\Object Oriented Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30698\source\repos\Object Oriented Programming\Object Oriented Programming\obj\Debug\netcoreapp3.1\Object Oriented Programming.AssemblyInfoInputs.cache
+C:\Users\30698\source\repos\Object Oriented Programming\Object Oriented Programming\obj\Debug\netcoreapp3.1\Object Oriented Programming.AssemblyInfo.cs
+C:\Users\30698\source\repos\Object Oriented Programming\Object Oriented Programming\obj\Debug\netcoreapp3.1\Object Oriented Programming.csproj.CoreCompileInputs.cache
+C:\Users\30698\source\repos\Object Oriented Programming\Object Oriented Programming\obj\Debug\netcoreapp3.1\Object Oriented Programming.dll
+C:\Users\30698\source\repos\Object Oriented Programming\Object Oriented Programming\obj\Debug\netcoreapp3.1\Object Oriented Programming.pdb
+C:\Users\30698\source\repos\Object Oriented Programming\Object Oriented Programming\obj\Debug\netcoreapp3.1\Object Oriented Programming.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractionWithInterface\bin\Debug\netcoreapp3.1\AbstractionWithInterface.exe
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractionWithInterface\bin\Debug\netcoreapp3.1\AbstractionWithInterface.deps.json
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractionWithInterface\bin\Debug\netcoreapp3.1\AbstractionWithInterface.runtimeconfig.json
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractionWithInterface\bin\Debug\netcoreapp3.1\AbstractionWithInterface.runtimeconfig.dev.json
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractionWithInterface\bin\Debug\netcoreapp3.1\AbstractionWithInterface.dll
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractionWithInterface\bin\Debug\netcoreapp3.1\AbstractionWithInterface.pdb
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractionWithInterface\obj\Debug\netcoreapp3.1\AbstractionWithInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractionWithInterface\obj\Debug\netcoreapp3.1\AbstractionWithInterface.AssemblyInfoInputs.cache
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractionWithInterface\obj\Debug\netcoreapp3.1\AbstractionWithInterface.AssemblyInfo.cs
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractionWithInterface\obj\Debug\netcoreapp3.1\AbstractionWithInterface.csproj.CoreCompileInputs.cache
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractionWithInterface\obj\Debug\netcoreapp3.1\AbstractionWithInterface.dll
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractionWithInterface\obj\Debug\netcoreapp3.1\AbstractionWithInterface.pdb
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractionWithInterface\obj\Debug\netcoreapp3.1\AbstractionWithInterface.genruntimeconfig.cache
+C:\Users\30698\source\repos\Object Oriented Programming\AbstractionWithInterface\obj\Debug\netcoreapp3.1\AbstractionWithInterface.csproj.AssemblyReference.cache
