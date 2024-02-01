@@ -21,7 +21,7 @@ namespace Composition
                 Name = "Omar",
                 address = "azaz",
                 DateOfBirth = new DateTime(2002, 1, 1),
-                subjects = new List<Subject>(),
+                studies = new List<Study>(),
             };
             Course course = new Course
             {
@@ -32,10 +32,10 @@ namespace Composition
                 Price = 200m,
                 TecherId = techer.Id,
                 Techer = techer,
-                subjects = new List<Subject>(),
+                studies = new List<Study>(),
             };
 
-            Subject subject = new Subject
+            Study subject = new Study
             {
                 Id = 1001,
                 CourseId = course.Id,
@@ -46,8 +46,8 @@ namespace Composition
             };
 
             techer.courses.Add(course);
-            student.subjects.Add(subject);
-            course.subjects.Add(subject);
+            student.studies.Add(subject);
+            course.studies.Add(subject);
 
 
             Console.WriteLine(
