@@ -12,3 +12,17 @@ C:\Users\30698\source\repos\Object Oriented Programming\Composition\obj\Debug\ne
 C:\Users\30698\source\repos\Object Oriented Programming\Composition\obj\Debug\netcoreapp3.1\Composition.dll
 C:\Users\30698\source\repos\Object Oriented Programming\Composition\obj\Debug\netcoreapp3.1\Composition.pdb
 C:\Users\30698\source\repos\Object Oriented Programming\Composition\obj\Debug\netcoreapp3.1\Composition.genruntimeconfig.cache
+C:\Users\30698\source\Object Oriented Programming\Composition\bin\Debug\netcoreapp3.1\Composition.exe
+C:\Users\30698\source\Object Oriented Programming\Composition\bin\Debug\netcoreapp3.1\Composition.deps.json
+C:\Users\30698\source\Object Oriented Programming\Composition\bin\Debug\netcoreapp3.1\Composition.runtimeconfig.json
+C:\Users\30698\source\Object Oriented Programming\Composition\bin\Debug\netcoreapp3.1\Composition.runtimeconfig.dev.json
+C:\Users\30698\source\Object Oriented Programming\Composition\bin\Debug\netcoreapp3.1\Composition.dll
+C:\Users\30698\source\Object Oriented Programming\Composition\bin\Debug\netcoreapp3.1\Composition.pdb
+C:\Users\30698\source\Object Oriented Programming\Composition\obj\Debug\netcoreapp3.1\Composition.csproj.AssemblyReference.cache
+C:\Users\30698\source\Object Oriented Programming\Composition\obj\Debug\netcoreapp3.1\Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30698\source\Object Oriented Programming\Composition\obj\Debug\netcoreapp3.1\Composition.AssemblyInfoInputs.cache
+C:\Users\30698\source\Object Oriented Programming\Composition\obj\Debug\netcoreapp3.1\Composition.AssemblyInfo.cs
+C:\Users\30698\source\Object Oriented Programming\Composition\obj\Debug\netcoreapp3.1\Composition.csproj.CoreCompileInputs.cache
+C:\Users\30698\source\Object Oriented Programming\Composition\obj\Debug\netcoreapp3.1\Composition.dll
+C:\Users\30698\source\Object Oriented Programming\Composition\obj\Debug\netcoreapp3.1\Composition.pdb
+C:\Users\30698\source\Object Oriented Programming\Composition\obj\Debug\netcoreapp3.1\Composition.genruntimeconfig.cache

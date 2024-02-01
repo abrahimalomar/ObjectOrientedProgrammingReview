@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\30698\\source\\repos\\Object Oriented Programming\\Inheritance\\Inheritance.csproj",
+      "projectUniqueName": "C:\\Users\\30698\\source\\Object Oriented Programming\\Inheritance\\Inheritance.csproj",
       "projectName": "Inheritance",
-      "projectPath": "C:\\Users\\30698\\source\\repos\\Object Oriented Programming\\Inheritance\\Inheritance.csproj",
+      "projectPath": "C:\\Users\\30698\\source\\Object Oriented Programming\\Inheritance\\Inheritance.csproj",
       "packagesPath": "C:\\Users\\30698\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\30698\\source\\repos\\Object Oriented Programming\\Inheritance\\obj\\",
+      "outputPath": "C:\\Users\\30698\\source\\Object Oriented Programming\\Inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\30698\\AppData\\Roaming\\NuGet\\NuGet.Config",

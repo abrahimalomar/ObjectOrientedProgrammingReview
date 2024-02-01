@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\30698\\source\\repos\\Object Oriented Programming\\Encapsulation\\Encapsulation.csproj": {}
+    "C:\\Users\\30698\\source\\Object Oriented Programming\\Encapsulation\\Encapsulation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\30698\\source\\repos\\Object Oriented Programming\\Encapsulation\\Encapsulation.csproj": {
+    "C:\\Users\\30698\\source\\Object Oriented Programming\\Encapsulation\\Encapsulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\30698\\source\\repos\\Object Oriented Programming\\Encapsulation\\Encapsulation.csproj",
+        "projectUniqueName": "C:\\Users\\30698\\source\\Object Oriented Programming\\Encapsulation\\Encapsulation.csproj",
         "projectName": "Encapsulation",
-        "projectPath": "C:\\Users\\30698\\source\\repos\\Object Oriented Programming\\Encapsulation\\Encapsulation.csproj",
+        "projectPath": "C:\\Users\\30698\\source\\Object Oriented Programming\\Encapsulation\\Encapsulation.csproj",
         "packagesPath": "C:\\Users\\30698\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\30698\\source\\repos\\Object Oriented Programming\\Encapsulation\\obj\\",
+        "outputPath": "C:\\Users\\30698\\source\\Object Oriented Programming\\Encapsulation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\30698\\AppData\\Roaming\\NuGet\\NuGet.Config",

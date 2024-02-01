@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\30698\\source\\repos\\Object Oriented Programming\\AbstractClasses\\AbstractClasses.csproj",
+      "projectUniqueName": "C:\\Users\\30698\\source\\Object Oriented Programming\\AbstractClasses\\AbstractClasses.csproj",
       "projectName": "AbstractClasses",
-      "projectPath": "C:\\Users\\30698\\source\\repos\\Object Oriented Programming\\AbstractClasses\\AbstractClasses.csproj",
+      "projectPath": "C:\\Users\\30698\\source\\Object Oriented Programming\\AbstractClasses\\AbstractClasses.csproj",
       "packagesPath": "C:\\Users\\30698\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\30698\\source\\repos\\Object Oriented Programming\\AbstractClasses\\obj\\",
+      "outputPath": "C:\\Users\\30698\\source\\Object Oriented Programming\\AbstractClasses\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\30698\\AppData\\Roaming\\NuGet\\NuGet.Config",
